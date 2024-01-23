@@ -2,7 +2,7 @@
 
 This repository contains lab work from a computer graphics course.
 
-Lab works:
+Labs:
 
-* [Red Panda Lab](red-pandas) 
-* Stone throwing (TODO)
+* [Red Panda Lab](/red-pandas/) 
+* [Stone throwing Lab](/stone-throwing/)
